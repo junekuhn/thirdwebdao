@@ -1,0 +1,35 @@
+downloaded repo
+alchemy api
+thirdweb application
+app runs
+
+script 1
+ - initialize sdk
+ - goes to thirdweb and verifies things are working
+
+ script 2 
+  - creates DAO with the parameters specified
+0xcDD16AF000bE5BAF8F32Ff5F0f7500048Dd97170
+  metadata: {
+    name: 'GenderDAO Membership',
+    description: 'A DAO for gendered people.',
+    image: 'https://cloudflare-ipfs.com/ipfs/bafkreic5zpxbly6n4aot42uoozjygkpcicgjdvnwfinfsyi5gt5drtjybu',
+    primary_sale_recipient_address: '0x0000000000000000000000000000000000000000',
+    uri: 'ipfs://bafkreigskiyk5tu56gjvkrswmmivbvoeltwyjidcdrwzqaqplasgowgdhu'
+  },
+
+  useEffect has its own separate return statement
+
+  configure nft
+  pretty standard stuff, not learning a lot yet.
+
+  deploy erc 1155
+  deploy erc 20
+
+  token deployed to 0xcDD7EE22834f3024aFf7dBCdaeBE1Bb2FfCfbb30
+  the contract itself doesn't create any tokens
+  you have to print the money with a different script 
+  
+
+  
+
